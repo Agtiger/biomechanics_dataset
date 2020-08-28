@@ -4,9 +4,9 @@ Please check the license of invidual data set before using it.
 
 ## [Kinematics + forces + EMG] data sets
 ### With C3D files
-- CAMS-Knee: https://cams-knee.orthoload.com/
-- Moissenet, Florent; Schreiber, Céline (2019): A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. figshare. Dataset. https://doi.org/10.6084/m9.figshare.7734767.v8
-- Fregly, B. J., Besier, T. F., Lloyd, D. G., Delp, S. L., Banks, S. A., Pandy, M. G., & D'lima, D. D. (2012). Grand challenge competition to predict in vivo knee loads. Journal of Orthopaedic Research, 30(4), 503-513. https://simtk.org/projects/kneeloads
+- ~~CAMS-Knee: https://cams-knee.orthoload.com/~~
+- ~~Moissenet, Florent; Schreiber, Céline (2019): A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. figshare. Dataset. https://doi.org/10.6084/m9.figshare.7734767.v8~~
+- ~~Fregly, B. J., Besier, T. F., Lloyd, D. G., Delp, S. L., Banks, S. A., Pandy, M. G., & D'lima, D. D. (2012). Grand challenge competition to predict in vivo knee loads. Journal of Orthopaedic Research, 30(4), 503-513. https://simtk.org/projects/kneeloads~~
 ### Other file formats
 - R Macaluso, K Embry, D Villarreal, R Gregg, "Human Leg Kinematics, Kinetics, and EMG during Phase-Shifting Perturbations at Varying Inclines", IEEE Dataport, 2020. [Online]. Available: http://dx.doi.org/10.21227/12hp-e249
 - Lencioni, Tiziana; CARPINELLA, ILARIA; Rabuffetti, Marco; Marzegan, Alberto; Ferrarin, Maurizio (2019): Human kinematic, kinetic and EMG data during level walking, toe/heel-walking, stairs ascending/descending. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4494755.v1
@@ -15,7 +15,7 @@ Please check the license of invidual data set before using it.
 
 ## [Kinematics + forces/EMG] data sets
 ### With C3D files
-- Orthoload: https://orthoload.com/
+- ~~Orthoload: https://orthoload.com/~~
 - Laboratory for Movement Biomechanics, ETH Zürich: https://movement.ethz.ch/data-repository.html
 - University of Pennsylvania SIG Center for Computer Graphics Multi Modal Motion Capture Library: https://fling.seas.upenn.edu/~mocap/
 - Hood, Sarah; Lenzi, Tommaso (2020): Lower Limb Kinetic and Kinematic Data of 18 Above Knee Amputees. figshare. Dataset. https://doi.org/10.6084/m9.figshare.10308443
@@ -26,8 +26,8 @@ Please check the license of invidual data set before using it.
 - Deborah A. Jehu, Hiram Cantu, Allen Hill, Caroline Paquette, Julie N. Cote, & Julie Nantel. (2018). Standing repetitive pointing task in individuals with and without Parkinson's disease (Version v1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1199647
 - Ozkaya, Gizem; Jung, Hae Ryun; Jeong, In Sub; Choi, Min Ra; Shin, Min Young; Lin, Xue; et al. (2018): Three-dimensional motion capture data during repetitive overarm throwing practice. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4017808.v1
 - Lunn, David and Chapman, Graham and Redmond, Anthony (2018) Motion analysis in total joint replacement patients: Data Release 1. University of Leeds. [Dataset] https://doi.org/10.5518/345
-- Fukuchi, Claudiane; Fukuchi, Reginaldo; Duarte, Marcos (2018): A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5722711.v4
-- Fukuchi, Reginaldo; Fukuchi, Claudiane; Duarte, Marcos (2017): A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics. figshare. Dataset. https://doi.org/10.6084/m9.figshare.4543435.v4
+- ~~Fukuchi, Claudiane; Fukuchi, Reginaldo; Duarte, Marcos (2018): A public data set of overground and treadmill walking kinematics and kinetics of healthy individuals. figshare. Dataset. https://doi.org/10.6084/m9.figshare.5722711.v4~~
+- ~~Fukuchi, Reginaldo; Fukuchi, Claudiane; Duarte, Marcos (2017): A public data set of running biomechanics and the effects of running speed on lower extremity kinematics and kinetics. figshare. Dataset. https://doi.org/10.6084/m9.figshare.4543435.v4~~
 ### Other file formats
 - Goršič, Maja, Dai, Boyi, & Novak, Domen. (2020). Load position and weight classification during carrying gait using wearable inertial and electromyographic sensors [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3941377
 - Matran-Fernandez, A., Rodríguez Martínez, I.J., Poli, R. et al. SEEDS, simultaneous recordings of high-density EMG and finger joint angles during multiple hand movements. Sci Data 6, 186 (2019). https://doi.org/10.1038/s41597-019-0200-9 ([data](https://doi.org/10.17605/OSF.IO/WA3QK))
